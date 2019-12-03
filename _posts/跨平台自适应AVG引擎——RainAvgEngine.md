@@ -13,6 +13,7 @@ categories:
 ![RainAvgEngine](..\images\rain_avg_engine.jpg "RainAvgEngine")
 ![RainAvgEngine](.\..\images\rain_avg_engine.jpg "RainAvgEngine")
 ![RainAvgEngine](./../images/rain_avg_engine.jpg "RainAvgEngine")
+![RainAvgEngine](../images/rain_avg_engine.jpg "RainAvgEngine")
 
 
 源码地址：
