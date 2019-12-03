@@ -12,20 +12,13 @@ categories:
 经过不断的折（mo）腾（yu），RainAvgEngine终于完成。同时利用该引擎编写的手机版《逃出青龙山》也完成。撒花~~~
 
 
-![RainAvgEngine](.\images\rain_avg_engine.jpg "RainAvgEngine")
-![RainAvgEngine](./images/rain_avg_engine.jpg "RainAvgEngine")
-![RainAvgEngine](/images/rain_avg_engine.jpg "RainAvgEngine")
-![RainAvgEngine](\images\rain_avg_engine.jpg "RainAvgEngine")
-![RainAvgEngine](images/rain_avg_engine.jpg "RainAvgEngine")
-![RainAvgEngine](images\rain_avg_engine.jpg "RainAvgEngine")
+![RainAvgEngine](./images/rain_avg_engine.jpg "RainAvgEngine")1
+![RainAvgEngine](/images/rain_avg_engine.jpg "RainAvgEngine")1
+![RainAvgEngine](images/rain_avg_engine.jpg "RainAvgEngine")1
 
-
-![RainAvgEngine](..\images\rain_avg_engine.jpg "RainAvgEngine")
-![RainAvgEngine](.\..\images\rain_avg_engine.jpg "RainAvgEngine")
-![RainAvgEngine](./../images/rain_avg_engine.jpg "RainAvgEngine")
-![RainAvgEngine](../images/rain_avg_engine.jpg "RainAvgEngine")
-![RainAvgEngine](..\images\rain_avg_engine.jpg "RainAvgEngine")
-![RainAvgEngine](../images/rain_avg_engine.jpg "RainAvgEngine")
+![RainAvgEngine](./../images/rain_avg_engine.jpg "RainAvgEngine")1
+![RainAvgEngine](../images/rain_avg_engine.jpg "RainAvgEngine")1
+![RainAvgEngine](../images/rain_avg_engine.jpg "RainAvgEngine")1
 
 
 源码地址：
